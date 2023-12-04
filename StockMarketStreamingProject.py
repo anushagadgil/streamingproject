@@ -1,4 +1,5 @@
 #Importing necessary modules 
+pip install statsmodels
 import streamlit as st
 import pandas as pd
 from statsmodels.tsa.arima.model import ARIMA
